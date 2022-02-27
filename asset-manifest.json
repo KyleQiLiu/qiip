@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/qiip/static/css/main.4ce61314.css",
-    "main.js": "/qiip/static/js/main.08cb943e.js",
+    "main.js": "/qiip/static/js/main.f369f630.js",
     "static/media/bgvr_logo.png": "/qiip/static/media/bgvr_logo.2e9b127210b73f8cd1c8.png",
-    "static/media/qi_hero_image_v002.jpg": "/qiip/static/media/qi_hero_image_v002.682555e6999693449ebe.jpg",
+    "static/media/qi_hero_image.jpg": "/qiip/static/media/qi_hero_image.c0ac4b37718aae3ead2b.jpg",
+    "static/media/qi_hero_image_v002.jpg": "/qiip/static/media/qi_hero_image_v002.8f0d7c89ce2d6ca13afe.jpg",
     "static/media/qi_logo_no_boarder.png": "/qiip/static/media/qi_logo_no_boarder.25a2df023892a199ea3a.png",
     "static/media/qi_logo.png": "/qiip/static/media/qi_logo.a77d3bc9451c6ab06ece.png",
     "static/media/unreal_tech_icon.PNG": "/qiip/static/media/unreal_tech_icon.ee3973ca2618860adecd.PNG",
@@ -11,10 +12,10 @@
     "static/media/vr_icon.PNG": "/qiip/static/media/vr_icon.ad171d6076cebe66fbef.PNG",
     "index.html": "/qiip/index.html",
     "main.4ce61314.css.map": "/qiip/static/css/main.4ce61314.css.map",
-    "main.08cb943e.js.map": "/qiip/static/js/main.08cb943e.js.map"
+    "main.f369f630.js.map": "/qiip/static/js/main.f369f630.js.map"
   },
   "entrypoints": [
     "static/css/main.4ce61314.css",
-    "static/js/main.08cb943e.js"
+    "static/js/main.f369f630.js"
   ]
 }
