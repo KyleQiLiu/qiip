@@ -1,21 +1,33 @@
 {
   "files": {
-    "main.css": "/qiip/static/css/main.4ce61314.css",
-    "main.js": "/qiip/static/js/main.f369f630.js",
+    "main.css": "/qiip/static/css/main.6e8922cb.css",
+    "main.js": "/qiip/static/js/main.4ce2368a.js",
     "static/media/bgvr_logo.png": "/qiip/static/media/bgvr_logo.2e9b127210b73f8cd1c8.png",
+    "static/media/ezgif.com-gif-maker.gif": "/qiip/static/media/ezgif.com-gif-maker.386e16dc85d278a6e84c.gif",
+    "static/media/bgvr_cards.gif": "/qiip/static/media/bgvr_cards.065234c00a1b10b49d77.gif",
+    "static/media/objects.png": "/qiip/static/media/objects.7330e82305261cb406ed.png",
+    "static/media/victor-li-ezgif-com-crop.gif": "/qiip/static/media/victor-li-ezgif-com-crop.aac2f5ebcae9cad63a26.gif",
+    "static/media/victor-li-ezgif-com-optimize-3.gif": "/qiip/static/media/victor-li-ezgif-com-optimize-3.ad3d4ec38d9a8541caa1.gif",
+    "static/media/victor-li-ezgif-com-optimize-1.gif": "/qiip/static/media/victor-li-ezgif-com-optimize-1.775160b7733b5e5217f7.gif",
+    "static/media/victor-li-ezgif-com-optimize-4.gif": "/qiip/static/media/victor-li-ezgif-com-optimize-4.0e0d59e8df312506aecb.gif",
+    "static/media/ar_demo.mp4": "/qiip/static/media/ar_demo.e984fb8422be2020897d.mp4",
     "static/media/qi_hero_image.jpg": "/qiip/static/media/qi_hero_image.c0ac4b37718aae3ead2b.jpg",
     "static/media/qi_hero_image_v002.jpg": "/qiip/static/media/qi_hero_image_v002.8f0d7c89ce2d6ca13afe.jpg",
+    "static/media/headline.jpg": "/qiip/static/media/headline.cd3928fcf999a5b273d3.jpg",
+    "static/media/victor_diving.jpg": "/qiip/static/media/victor_diving.006b947d56f11cddc7e9.jpg",
+    "static/media/hangong.JPG": "/qiip/static/media/hangong.2c2523178a9e142a6d72.JPG",
+    "static/media/jibc.jpg": "/qiip/static/media/jibc.c9262e2aa2fcd1c724d1.jpg",
     "static/media/qi_logo_no_boarder.png": "/qiip/static/media/qi_logo_no_boarder.25a2df023892a199ea3a.png",
     "static/media/qi_logo.png": "/qiip/static/media/qi_logo.a77d3bc9451c6ab06ece.png",
     "static/media/unreal_tech_icon.PNG": "/qiip/static/media/unreal_tech_icon.ee3973ca2618860adecd.PNG",
     "static/media/animation_icon.PNG": "/qiip/static/media/animation_icon.c771ab26ecf76af76950.PNG",
     "static/media/vr_icon.PNG": "/qiip/static/media/vr_icon.ad171d6076cebe66fbef.PNG",
     "index.html": "/qiip/index.html",
-    "main.4ce61314.css.map": "/qiip/static/css/main.4ce61314.css.map",
-    "main.f369f630.js.map": "/qiip/static/js/main.f369f630.js.map"
+    "main.6e8922cb.css.map": "/qiip/static/css/main.6e8922cb.css.map",
+    "main.4ce2368a.js.map": "/qiip/static/js/main.4ce2368a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ce61314.css",
-    "static/js/main.f369f630.js"
+    "static/css/main.6e8922cb.css",
+    "static/js/main.4ce2368a.js"
   ]
 }
