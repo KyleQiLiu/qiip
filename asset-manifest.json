@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/qiip/static/css/main.6e8922cb.css",
-    "main.js": "/qiip/static/js/main.4ce2368a.js",
+    "main.css": "/qiip/static/css/main.094f5c89.css",
+    "main.js": "/qiip/static/js/main.1a5e6d65.js",
     "static/media/bgvr_logo.png": "/qiip/static/media/bgvr_logo.2e9b127210b73f8cd1c8.png",
     "static/media/ezgif.com-gif-maker.gif": "/qiip/static/media/ezgif.com-gif-maker.386e16dc85d278a6e84c.gif",
     "static/media/bgvr_cards.gif": "/qiip/static/media/bgvr_cards.065234c00a1b10b49d77.gif",
@@ -18,16 +18,16 @@
     "static/media/hangong.JPG": "/qiip/static/media/hangong.2c2523178a9e142a6d72.JPG",
     "static/media/jibc.jpg": "/qiip/static/media/jibc.c9262e2aa2fcd1c724d1.jpg",
     "static/media/qi_logo_no_boarder.png": "/qiip/static/media/qi_logo_no_boarder.25a2df023892a199ea3a.png",
-    "static/media/qi_logo.png": "/qiip/static/media/qi_logo.a77d3bc9451c6ab06ece.png",
+    "static/media/qi_logo_left.png": "/qiip/static/media/qi_logo_left.fd588d3b359d2f231621.png",
     "static/media/unreal_tech_icon.PNG": "/qiip/static/media/unreal_tech_icon.ee3973ca2618860adecd.PNG",
     "static/media/animation_icon.PNG": "/qiip/static/media/animation_icon.c771ab26ecf76af76950.PNG",
     "static/media/vr_icon.PNG": "/qiip/static/media/vr_icon.ad171d6076cebe66fbef.PNG",
     "index.html": "/qiip/index.html",
-    "main.6e8922cb.css.map": "/qiip/static/css/main.6e8922cb.css.map",
-    "main.4ce2368a.js.map": "/qiip/static/js/main.4ce2368a.js.map"
+    "main.094f5c89.css.map": "/qiip/static/css/main.094f5c89.css.map",
+    "main.1a5e6d65.js.map": "/qiip/static/js/main.1a5e6d65.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e8922cb.css",
-    "static/js/main.4ce2368a.js"
+    "static/css/main.094f5c89.css",
+    "static/js/main.1a5e6d65.js"
   ]
 }
