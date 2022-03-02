@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/qiip/static/css/main.094f5c89.css",
-    "main.js": "/qiip/static/js/main.eba7fccc.js",
+    "main.js": "/qiip/static/js/main.e5952472.js",
     "static/media/bgvr_logo.png": "/qiip/static/media/bgvr_logo.2e9b127210b73f8cd1c8.png",
     "static/media/ezgif.com-gif-maker.gif": "/qiip/static/media/ezgif.com-gif-maker.386e16dc85d278a6e84c.gif",
     "static/media/bgvr_cards.gif": "/qiip/static/media/bgvr_cards.065234c00a1b10b49d77.gif",
@@ -24,10 +24,10 @@
     "static/media/vr_icon.PNG": "/qiip/static/media/vr_icon.ad171d6076cebe66fbef.PNG",
     "index.html": "/qiip/index.html",
     "main.094f5c89.css.map": "/qiip/static/css/main.094f5c89.css.map",
-    "main.eba7fccc.js.map": "/qiip/static/js/main.eba7fccc.js.map"
+    "main.e5952472.js.map": "/qiip/static/js/main.e5952472.js.map"
   },
   "entrypoints": [
     "static/css/main.094f5c89.css",
-    "static/js/main.eba7fccc.js"
+    "static/js/main.e5952472.js"
   ]
 }
